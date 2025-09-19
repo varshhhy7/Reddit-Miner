@@ -1,0 +1,6 @@
+jupyter
+rav
+python-dotenv
+langchain-community
+langchain-brightdata
+pre-commit
