@@ -6,3 +6,5 @@ langchain-brightdata
 pre-commit
 langchain[google-genai]
 langchain[groq]
+langgraph
+django
